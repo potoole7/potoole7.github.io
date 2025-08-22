@@ -1,13 +1,46 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- TODO Include citation for Heffernan and Tawn model -->
+<!-- TODO Include link to Christian and Jordan's pages -->
+<!-- TODO Include profile picture -->
+
+[//]: # (Bit dry and long?)
+[//]: # (This is a comment that will not be displayed in the rendered HTML)
+__Fáilte!__
+
+I'm Paddy (Patrick), and I'm a Statistics PhD student from [Shanahoe](https://en.wikipedia.org/wiki/Shanahoe), Laois, Ireland (Seanchua Abú!).
+
+I'm currently based at the University of Bath, where my research lies in __Extreme Value Theory__, with a focus on clustering algorithms for the Conditional Extremes model of [Heffernan and Tawn](https://doi.org/10.1111/j.1467-9868.2004.02050.x) \[1\], with applications to environmental extremes. 
+I am supervised by [Dr. Christian Rohrbeck](https://people.bath.ac.uk/cr777/) and [Dr. Jordan Richards](https://jbrich95.github.io/). 
+Other research interests include Bayesian statistics, spatio-temporal modelling, epidemiology, and statistical computing. 
+My work is funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) through the Centre for Doctoral Training in Statistical Applied Mathematics at Bath ([SAMBa](https://samba.ac.uk/)).
+
+I hold a *BSc in Statistics* from University College Dublin (2020) and an *MRes in Statistical Applied Mathematics* from the University of Bath (2024). 
+Between these, I gained experience as a Statistician/Data Scientist at [Lubrizol](https://www.lubrizol.com/), [Airfinity](https://airfinity.com/), and as a Research Assistant in the [HIV Inference Group](https://hiv-inference.org/) at Imperial College London. 
+These roles involved work on Bayesian modelling of industrial gear oil, COVID-19 vaccine demand forecasting, and Bayesian spatio-temporal modelling of circumcision coverage in Africa.
+While at Bath, I've also worked with the [Institude for Mathematical Innovation](https://imi.org.uk/) on modelling Brazilian landslide risk. 
+
+Outside of academia, as an expat (pardon the pun) I enjoy playing Gaelic football for [Bristol Harps](https://www.bristolharps.com/) and hurling with [Séan Treacys](https://seantreacyslondon.com/) in London. 
+
+At Bath, I have also tutored the following undergraduate courses:
+- **MA12002** Programming (Python)
+- **MA10211** Probability & Statistics 1A
+- **MA10212** Probability & Statistics 1B
+
+## References
+
+[1] Heffernan, J. E. and Tawn, J. A. (2004). *A conditional approach for multivariate extreme values (with discussion).* Journal of the Royal Statistical Society Series B: Statistical Methodology, [https://doi.org/10.1111/j.1467-9868.2004.02050.x](https://doi.org/10.1111/j.1467-9868.2004.02050.x)
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +79,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
