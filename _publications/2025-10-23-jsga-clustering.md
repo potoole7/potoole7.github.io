@@ -2,7 +2,7 @@
 title: "Clustering of multivariate tail dependence using conditional methods"
 collection: publications
 category: preprint
-layout: publication
+layout: default
 authors: "Patrick O'Toole, Christian Rohrbeck, Jordan Richards"
 venue: "arXiv"
 year: 2025

@@ -83,6 +83,8 @@ author:
 publication_category:
   expected:
     title: 'In Preparation / Expected'
+  preprint:
+    title: 'Preprints'
   # books:
   #   title: 'Books'
   # manuscripts:
