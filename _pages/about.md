@@ -19,7 +19,9 @@ __Fáilte!__
 I'm Paddy (Patrick), and I'm a Statistics PhD student from [Shanahoe](https://en.wikipedia.org/wiki/Shanahoe), Laois, Ireland (Seanchua Abú!).
 
 I'm currently based at the University of Bath, where my research lies in __Extreme Value Theory__, with a focus on clustering algorithms for the Conditional Extremes model of [Heffernan and Tawn](https://doi.org/10.1111/j.1467-9868.2004.02050.x) \[1\], with applications to environmental extremes. 
-I am supervised by [Dr. Christian Rohrbeck](https://people.bath.ac.uk/cr777/) and [Dr. Jordan Richards](https://jbrich95.github.io/). 
+I am supervised by [Christian Rohrbeck](https://people.bath.ac.uk/cr777/) and [Jordan Richards](https://jbrich95.github.io/). 
+We have just added a paper on clustering for the Conditional Extremes model to arXiv, which can be found [here](https://arxiv.org/abs/2510.20424), with the related R package [CeCl](
+https://github.com/potoole7/CeCl) available on GitHub. 
 Other research interests include Bayesian statistics, spatio-temporal modelling, epidemiology, and statistical computing. 
 My work is funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) through the Centre for Doctoral Training in Statistical Applied Mathematics at Bath ([SAMBa](https://samba.ac.uk/)).
 
