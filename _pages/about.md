@@ -26,11 +26,12 @@ Other research interests include Bayesian statistics, spatio-temporal modelling,
 My work is funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) through the Centre for Doctoral Training in Statistical Applied Mathematics at Bath ([SAMBa](https://samba.ac.uk/)).
 
 I hold a *BSc in Statistics* from University College Dublin (2020) and an *MRes in Statistical Applied Mathematics* from the University of Bath (2024). 
-Between these, I gained experience as a Statistician/Data Scientist at [Lubrizol](https://www.lubrizol.com/), [Airfinity](https://airfinity.com/), and as a Research Assistant in the [HIV Inference Group](https://hiv-inference.org/) at Imperial College London. 
+Between these, I gained experience as a Statistician and Data Scientist at [Lubrizol](https://www.lubrizol.com/) and [Airfinity](https://airfinity.com/), and as a Research Assistant in the [HIV Inference Group](https://hiv-inference.org/) at Imperial College London. 
 These roles involved work on Bayesian modelling of industrial gear oil, COVID-19 vaccine demand forecasting, and Bayesian spatio-temporal modelling of circumcision coverage in Africa.
-While at Bath, I've also worked with the [Institude for Mathematical Innovation](https://imi.org.uk/) on modelling Brazilian landslide risk. 
+While at Bath, I've also worked with the [Institude for Mathematical Innovation](https://imi.org.uk/) on risk modelling for landslides in Brazil. 
 
-Outside of academia, as an expat (pardon the pun) I enjoy playing Gaelic football for [Bristol Harps](https://www.bristolharps.com/) and hurling with [Séan Treacys](https://seantreacyslondon.com/) in London. 
+<!-- Outside of academia, as an expat (pardon the pun) I enjoy playing Gaelic football for [Bristol Harps](https://www.bristolharps.com/) and hurling with [Séan Treacys](https://seantreacyslondon.com/) in London. -->
+Outside of academia, I enjoy playing Gaelic football for [Bristol Harps](https://www.bristolharps.com/) and hurling with [Séan Treacys](https://seantreacyslondon.com/) in London.
 
 At Bath, I have also tutored the following undergraduate courses:
 - **MA12002** Programming (Python)
