@@ -13,3 +13,4 @@ citation: "Patrick O'Toole, Christian Rohrbeck, Jordan Richards. (2025). Cluster
 link: "https://arxiv.org/abs/2510.20424"
 ---
 Now available as a preprint on [arXiv](https://arxiv.org/abs/2510.20424).
+[Supplementary material (PDF)](/supplementary/2025-10-23-jsga-clustering.pdf)
